@@ -2,7 +2,7 @@
 
 This repo offers varios math methods those are used as a helper for your project.
 
-### _*You will find in this repo the following stuff:*_
+### *_You will find in this repo the following stuff:_*
 
 - .gitignore file its self to demonstrate how to ask the Git tool to upload a file or not.
 - README.md file itsefl to show the content of this repo. It acts as a homepage of this repo.
