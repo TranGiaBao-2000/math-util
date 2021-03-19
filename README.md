@@ -2,7 +2,7 @@
 
 This repo offers varios math methods those are used as a helper for your project.
 
-### You will find in this repo the following stuff:
+### _*You will find in this repo the following stuff:*_
 
 - .gitignore file its self to demonstrate how to ask the Git tool to upload a file or not.
 - README.md file itsefl to show the content of this repo. It acts as a homepage of this repo.
@@ -11,7 +11,7 @@ This repo offers varios math methods those are used as a helper for your project
 
 #### Connect me via:
 
-[My facebook](https://www.facebook.com/tran.giabao.3367174/)
-[My email](giabaotran912@gmail.com)
+[My facebook](https://www.facebook.com/tran.giabao.3367174/)  
+[My email](mailto: giabaotran912@gmail.com)
 
 © 2021 Gia Bao
